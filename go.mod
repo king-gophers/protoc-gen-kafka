@@ -1,4 +1,4 @@
-module kafka-handler
+module protoc-gen-kafka-handler
 
 go 1.17
 

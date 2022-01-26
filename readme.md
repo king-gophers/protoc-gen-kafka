@@ -1,7 +1,7 @@
 # Установка
 
 ```bash
-go install https://github.com/king-gophers/protoc-gen-kafka-handler
+go install github.com/king-gophers/protoc-gen-kafka-handler@latest
 ```
 
 # Настройка
