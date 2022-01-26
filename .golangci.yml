@@ -67,7 +67,7 @@ linters:
 
 linters-settings:
   gci:
-    local-prefixes: git.vseinstrumenti.net/core/bro
+    local-prefixes: github.com/king-gophers/protoc-gen-kafka-handler
   gocyclo:
     min-complexity: 15
   nestif:
