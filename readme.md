@@ -1,7 +1,7 @@
 # Установка
 
 ```bash
-go install github.com/king-gophers/protoc-gen-kafka-handler@latest
+go install github.com/king-gophers/protoc-gen-kafka@latest
 ```
 
 # Настройка
@@ -9,7 +9,7 @@ go install github.com/king-gophers/protoc-gen-kafka-handler@latest
 version: v1
 plugins:
     # подключение плагина
-  - name: kafgen
+  - name: kafka
     # путь для сохранения
     out: generate/
     # suffix=Out установка суффикса

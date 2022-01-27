@@ -1,4 +1,4 @@
-module github.com/king-gophers/protoc-gen-kafka-handler
+module github.com/king-gophers/protoc-gen-kafka
 
 go 1.17
 
